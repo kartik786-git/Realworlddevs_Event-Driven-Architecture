@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="EventDriven.Api/EventDriven.Api.csproj" />
+  <Project Path="EventDriven.Application.Abstractions/EventDriven.Application.Abstractions.csproj" />
+  <Project Path="EventDriven.Application/EventDriven.Application.csproj" />
+  <Project Path="EventDriven.Domain/EventDriven.Domain.csproj" />
+  <Project Path="EventDriven.Infrastructure/EventDriven.Infrastructure.csproj" />
+</Solution>
